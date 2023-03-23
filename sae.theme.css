@@ -1,0 +1,90 @@
+/**
+ * @name Sae
+ * @author ClearVision Team
+ * @version 6.3.0
+ * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
+ * @BDEditor Clear Vision
+*/
+
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+
+:root {
+  --main-color: #F44336;
+  --hover-color: #B53228;
+  --success-color: #4CAF50;
+  --danger-color: #C50000;
+  --url-color: var(--main-color);
+  --background-image: url('https://64.media.tumblr.com/7a4eef4ee094e0509aa78640a30f431b/cc313b643da99bba-bd/s540x810/8f3b05a19399688b2c64e30ca04d23e0ef5e3b8d.png');
+  --background-shading: 50%;
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 100%;
+  --background-contrast: 100%;
+  --background-saturation: 115%;
+  --background-grayscale: 0%;
+  --background-invert: 0%;
+  --background-blur: 0px;
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: url('https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2293c87acb9854ea0424a812d36c80e6~c5_720x720.jpeg?x-expires=1679554800&x-signature=t9X4kBeqPEbtN2UvwocEGLLDf6M%3D');
+  --user-popout-position: center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 135%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 0px;
+  --user-modal-image: url('https://64.media.tumblr.com/b3e42b7ba85552b61efc44ae0ea7e823/cc313b643da99bba-7a/s540x810/90ccc31d8e7a4a828c1054b6e57412ad84850f42.png');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 110%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 0px;
+  --home-icon: url('https://clearvision.github.io/icons/discord.svg');
+  --home-position: center;
+  --home-size: 40px;
+  --channel-unread: var(--main-color);
+  --channel-color: rgba(255,255,255,0.3);
+  --muted-color: rgba(255,255,255,0.1);
+  --online-color: #43b581;
+  --idle-color: #faa61a;
+  --dnd-color: #982929;
+  --streaming-color: #593695;
+  --offline-color: #808080;
+  --main-font: gg sans;
+  --code-font: Consolas;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+}
+
+/* Any custom CSS below here */
+
+

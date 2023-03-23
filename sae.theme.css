@@ -32,7 +32,7 @@
   --background-overlay: rgba(0,0,0,0.6);
   --user-popout-image: url('https://htmlcolorcodes.com/assets/images/colors/vermillion-color-solid-background-1920x1080.png');
   --user-popout-position: center;
-  --user-popout-size: cover;
+  --user-popout-size: auto;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
   --user-popout-brightness: 100%;

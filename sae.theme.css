@@ -32,7 +32,7 @@
   --background-overlay: rgba(0,0,0,0.6);
   --user-popout-image: url('https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2293c87acb9854ea0424a812d36c80e6~c5_720x720.jpeg?x-expires=1679554800&x-signature=t9X4kBeqPEbtN2UvwocEGLLDf6M%3D');
   --user-popout-position: center;
-  --user-popout-size: cover;
+  --user-popout-size: auto;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
   --user-popout-brightness: 135%;

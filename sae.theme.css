@@ -30,7 +30,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://i.imgur.com/ils5qKy.png');
+  --user-popout-image: transparent;
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;

@@ -30,9 +30,9 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://static.displate.com/857x1200/displate/2022-11-28/4f50f40f62fda2b25cb4b19bdb53f553_974bc59c8b91af4f62e4be683206d2a6.jpg');
+  --user-popout-image: url('https://i.imgur.com/ils5qKy.png');
   --user-popout-position: center;
-  --user-popout-size: contain;
+  --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
   --user-popout-brightness: 100%;

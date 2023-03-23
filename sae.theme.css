@@ -30,9 +30,9 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2293c87acb9854ea0424a812d36c80e6~c5_720x720.jpeg?x-expires=1679554800&x-signature=t9X4kBeqPEbtN2UvwocEGLLDf6M%3D');
+  --user-popout-image: url('https://64.media.tumblr.com/183eac805fdcf0c065909bb7745ad70c/75fc99b7b84f1fe0-e7/s540x810/a20d45478efb9c855033354a7c03afb525d557f6.png');
   --user-popout-position: center;
-  --user-popout-size: auto;
+  --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
   --user-popout-brightness: 135%;
